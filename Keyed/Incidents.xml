@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <AnimalInsanitySingle>A local {0} has gone mad. It will attack everyone it sees.</AnimalInsanitySingle>
+  <AnimalInsanitySingle>Bir {0} kafayı yedi. Gördüğü herkese saldırıyor.</AnimalInsanitySingle>
   <AnimalInsanityMultiple>Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0}s in the area have been driven insane.</AnimalInsanityMultiple>
 
-  <CropBlight>A mysterious blight has destroyed your crops.</CropBlight>
+  <CropBlight>Bilinmeyen bir hastalık ekinlerinin çoğunu telef etti.</CropBlight>
 
-  <EclipseIncident>One of the moons of this planet has orbited in front of the sun. An eclipse has begun.</EclipseIncident>
+  <EclipseIncident>Bu gezegenin aylarından bir tanesi güneşin önüne geçti. Güneş tutulması yaşanıyor.</EclipseIncident>
 
-  <MiracleHeal>{0} has experienced a miraculous recovery!</MiracleHeal>
+  <MiracleHeal>{0} mucizevi bir şekilde iyileşti!</MiracleHeal>
 
   
   <!-- Enemy raids -->
   <EnemyRaidWalkIn>A group of {0} from {1} have arrived nearby.</EnemyRaidWalkIn>
   <EnemyRaidEdgeDrop>A group of {0} from {1} have arrived in drop pods nearby.</EnemyRaidEdgeDrop>
   <EnemyRaidCenterDrop>A group of {0} from {1} have dropped in right on top of you!</EnemyRaidCenterDrop>
-  <EnemyRaidStageThenAttack>They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively.</EnemyRaidStageThenAttack>
-  <EnemyRaidImmediateAttack>They are attacking immediately.</EnemyRaidImmediateAttack>
-  <EnemyRaidBesiege>It looks like they want to besiege the colony.</EnemyRaidBesiege>
+  <EnemyRaidStageThenAttack>Bir süre hazırlanıp saldıracaklar.\n\nPrepare a defense or attack them pre-emptively.</EnemyRaidStageThenAttack>
+  <EnemyRaidImmediateAttack>Direk saldırıyorlar.</EnemyRaidImmediateAttack>
+  <EnemyRaidBesiege>Koloniyi kuşatmak istiyorlar gibi duruyor.</EnemyRaidBesiege>
 
 
   <!-- Friendly raids -->
@@ -65,7 +65,7 @@
   <LetterPsychicDroneLevelIncreased>The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanoid in the area now feels more disturbed, terrified, and paranoid.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
-  <LetterAgentRevealed>{0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now.</LetterAgentRevealed>
+  <LetterAgentRevealed>{0} , {1} bir ajanıymış.\n\nŞu anda kaçmaya çalışıyor.</LetterAgentRevealed>
   
   <!-- Distant psychic drone -->
   <LetterIncidentPsychicDrone>Every colonists of the {0} gender winces in pain!\n\nSome distant engine of hatred is stirring. It is projecting a powerful psychic drone over this entire region, on a frequency that only seems to affect the {0} gender. For a few days, some peoples' mood will be quite a bit worse.</LetterIncidentPsychicDrone>

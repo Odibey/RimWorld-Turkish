@@ -15,7 +15,7 @@
   <EnemyRaidWalkIn>A group of {0} from {1} have arrived nearby.</EnemyRaidWalkIn>
   <EnemyRaidEdgeDrop>A group of {0} from {1} have arrived in drop pods nearby.</EnemyRaidEdgeDrop>
   <EnemyRaidCenterDrop>A group of {0} from {1} have dropped in right on top of you!</EnemyRaidCenterDrop>
-  <EnemyRaidStageThenAttack>Bir süre hazırlanıp saldıracaklar.\n\nPrepare a defense or attack them pre-emptively.</EnemyRaidStageThenAttack>
+  <EnemyRaidStageThenAttack>Bir süre hazırlanıp saldıracaklar.\n\nBir savunma hattı oluştur yada öncü-karşı saldırı düzenle.</EnemyRaidStageThenAttack>
   <EnemyRaidImmediateAttack>Direk saldırıyorlar.</EnemyRaidImmediateAttack>
   <EnemyRaidBesiege>Koloniyi kuşatmak istiyorlar gibi duruyor.</EnemyRaidBesiege>
 
@@ -28,7 +28,7 @@
   <FriendlyRaidImmediateAttack>They are moving in to help you immediately.</FriendlyRaidImmediateAttack>
   <FriendlyRaidBesiege>It looks like they want to use siege tactics to help you.</FriendlyRaidBesiege>
 
-  <RefugeePodCrash>You've detected an escape pod crashing hard nearby.\n\nIf anyone survived the impact, they'll be badly wounded.</RefugeePodCrash>
+  <RefugeePodCrash>Yakınlara düşen bir kaçış mekiği tespit ettin.\n\nEğer hayatta kalan varsa çok kötü durumdadır.</RefugeePodCrash>
 
   <CargoPodCrash>You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage.</CargoPodCrash>
 
@@ -49,7 +49,7 @@
   <GroupVisitorsArrive>A group from {0} are visiting the colony.</GroupVisitorsArrive>
   <VisitorsLeaving>Visitors from {0} are leaving.</VisitorsLeaving>
 
-  <WandererJoin>A {0} named NAME has arrived and is joining the colony. HECAP is a {1}.</WandererJoin>
+  <WandererJoin> NAME isimli bir {0} koloniye katılıyor. HECAP {1} işinde usta.</WandererJoin>
   
   
   <!-- Crashed ship part-->
